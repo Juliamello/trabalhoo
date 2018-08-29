@@ -1,8 +1,8 @@
-# trabalhoo
+# Trabalhoo
 Douglas C. Engelbart foi um informática estadunidense. Desenvolveu os user interfaces contemporâneos e os ambientes de colaboração online, em Stanford, em meados dos anos 60. É conhecido por ter inventado o mouse de computador (juntamente com Bill English) e por ser um pioneiro na interação entre humanos e computadores, cuja equipe desenvolveu o hipertexto.
 
 
-##Nascimento
+**Nascimento**
 
 30 de janeiro de 1925
 Portland, Oregon
@@ -13,7 +13,7 @@ Nacionalidade
  Estadunidense
 
 
-##Prêmios
+**Prêmios**
 
 Prêmio Pioneiro da Computação (1992), Prêmio Turing (1997), Prêmio Lemelson–MIT (1997), National Inventors Hall of Fame (1998), Medalha John von Neumann IEEE (1999), Medalha Benjamin Franklin (1999), Medalha Nacional de Tecnologia e Inovação (2000), Medalha Lovelace (2001), Prêmio Norbert Wiener (2005), Internet Hall of Fame (2013)
 
@@ -42,7 +42,7 @@ Após o cancelamento dos financiamentos da ARPA muitos dos membros da equipa
 Em 1990, fundou o Bootstrap Institute , em Palo Alto, na Califórnia, que foi diretor até seu falecimento.
 
 
-##Curiosidades sobre o mouse
+**Curiosidades sobre o mouse**
  
 Em 1963 Engelbart inventou um “indicador de posicionamento X e Y para monitores” que posteriormente foi aperfeiçoado pelos engenheiros da Xerox e batizado como mouse. O mouse só se tornou comercialmente viável em 1984
 Evolução do mouse        
@@ -54,19 +54,19 @@ O primeiro mouse
 O primeiro mouse mecânico foi criado em 1972 por Bill English, que construiu o primeiro protótipo de mouse juntamente com Engelbart. A idéia de English foi simplesmente substituir os discos por uma bola que poderia ser movida em qualquer direção num plano bidimensional. 
  
    
-##O primeiro mouse comercial
+**O primeiro mouse comercial**
 
 Em 1981 a Xerox lançou o primeiro mouse no mercado: o 8010, que vinha com dois botões. Uma das versões desse mouse funcionava com máquinas copiadoras da empresa. 
 Mouse mecânico (mouse com ‘bolinha’)
 O mouse mecânico fez muito sucesso na década de 80 e 90, mas era necessário abri-lo para limpar a sujeira que se acumulava nos rolos conectados à esfera.
 
 
-##Roda de rolagem
+**Roda de rolagem**
 
 Com a evolução dos computadores e dos sistemas operacionais, os mouses também ganharam mais funcionalidades. A grande evolução neste setor foi a roda de rolagem vista pela primeira vez em 1995 no Genius EasyScroll Mouse, embora ela tenha se popularizado somente no ano seguinte quando a Microsoft lançou seu primeiro mouse com roda de rolagem. Em 2003 a roda de rolagem evoluiu ainda mais através da tecnologia Tilt Wheel, também da Microsoft. Basicamente ela permitia rolagem de textos na horizontal e na vertical.
 
 
-##Mouse Ótico
+**Mouse Ótico**
 
 Os primeiros protótipos de mouse ótico surgiram em 1980, mas foram prejudicados devido ao baixo processamento dos computadores naquela época pois o cálculo da movimentação do mouse era realizado pelo processador do computador. Estes dispositivos só se popularizaram em 1999 com o lançamento dos primeiros mouses óticos com custo relativamente baixo:
 O mouse ótico emite uma luz de LED na superfície, cuja reflexão é analisada por sensores que definem a distância e velocidade de movimento dele. Esse processamento é feito no próprio mouse. Este tipo de abordagem tecnológica apresenta duas vantagens em relação ao mouse mecânico: nenhuma parte do mouse óptico é mecânica (não há problema com poeira ou sujeira), e a precisão dos movimentos é maior.
